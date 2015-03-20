@@ -1,4 +1,5 @@
 #!/bin/bash
+#essentially this pulls the source and makes the key sizes bigger
 
 apt-get source gpgv
 cd gnupg-*/
